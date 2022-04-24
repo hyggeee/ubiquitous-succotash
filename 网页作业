@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<style>
+    table,th,td{
+        border: 1px solid;
+        border-collapse: collapse;
+    }
+</style>
+    </head>
+    <body>
+        <h1>plants data</h1>
+        <img src="https://tse2-mm.cn.bing.net/th/id/OIP-C.P-lm0Rh1vEl2iP6P2fWNTgHaGM?pid=ImgDet&rs=1" width="80px" style="float: right;" alt="NASA">
+     <table style="width: 100%;">
+        <caption>date about the plants of our solar system (planttary facts taken from <a href="https://nssdc.gsfc.nasa.gov/planetary/factsheet/planet_table_british.html" ;>NASA's planetary fact sheet_Metric</a>)</caption>
+          <tr bgcolor="grey">
+              <th colspan="2"></th>
+                <th>Name</th>
+                <th>Mass (10 <sup>24</sup></sub>kg)</th>
+                <th>Diameter (km)</th>
+                <th>Density (kg/m</th>
+                <th>Gravity (m/s</th>
+                <th>Lengh of day (hours)</th>
+                <th>Distance from</th>
+                <th>Mean temperature</th>
+                <th>Notes</th>
+            </tr>
+            <tr>
+                <th rowspan="4" colspan="2">Terrestial planets</th>
+                <th>Mercury</th>
+                <td>0.330</td>
+                <td>4.8</td>
+                <td>5427</td>
+                <td>3.7</td>
+                <td>4</td>
+                <td>6</td>
+                <td></td>
+                <td>Close to the sun</td>
+            </tr>
+            <tr>
+                <th>Venes</th>
+                <td>4.87</td>
+                <td>12,104</td>
+                <td>5241</td>
+                <td>139</td>
+                <td>4</td>
+                <td>6</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Earth</th>
+                <td>0.330</td>
+                <td>4.8</td>
+                <td>5427</td>
+                <td>3.7</td>
+                <td>4</td>
+                <td>6</td>
+                <td></td>
+                <td>Our word</td>
+            </tr>
+            <tr>
+                <th>Mars</th>
+                <td>0.330</td>
+                <td>4.8</td>
+                <td>5427</td>
+                <td>3.7</td>
+                <td>4</td>
+                <td>6</td>
+                <td></td>
+                <td>the red planet</td>
+            </tr>
+            <tr>
+                <th rowspan="4"  >Jovian planets</th>
+                <th rowspan="2">Gas glants</th>
+                <th>Jupiter</th>
+                <td>0.330</td>
+                <td>4.8</td>
+                <td>5427</td>
+                <td>3.7</td>
+                <td>4</td>
+                <td>6</td>
+                <td></td>
+                <td>the largest planetz</td>
+            </tr>
+             <tr>
+                <th>Sarurn</th>
+                <td>0.330</td>
+                <td>4.8</td>
+                <td>5427</td>
+                <td>3.7</td>
+                <td>4</td>
+                <td>6</td>
+                <td></td>
+                <td></td>
+            </tr>
+            </tr>
+                <th rowspan="2">Ice glants</th>
+                <th>Uranus</th>
+                <td>0.330</td>
+                <td>4.8</td>
+                <td>5427</td>
+                <td>3.7</td>
+                <td>4</td>
+                <td>6</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th>Neptune</th>
+                <td>0.330</td>
+                <td>4.8</td>
+                <td>5427</td>
+                <td>3.7</td>
+                <td>4</td>
+                <td>6</td>
+                <td></td>
+                <td></td>
+            </tr>
+            <tr>
+                <th colspan="2">Dwarf planets</th>
+                <th>Pluto</th>
+                <td>0.330</td>
+                <td>4.8</td>
+                <td>5427</td>
+                <td>3.7</td>
+                <td>4</td>
+                <td>6</td>
+                <td></td>
+                <td>Declassifined as a planet in 2006, but this<a href="#B">remains controversial </a>. </td>
+            </tr>
+        </table>
+    </body>
+</html>
