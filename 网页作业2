@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>网页设计作业二</title>
+</head>
+<style></style>
+<body background="https://tse1-mm.cn.bing.net/th/id/R-C.23c4b5942c917b3e54f516d34835f37a?rik=ByFE7Vrf%2f1feIg&riu=http%3a%2f%2fwww.pp3.cn%2fuploads%2fallimg%2f200706%2f14-200F6143921.jpg&ehk=THUocJWZwGVsVtoTORWjyXlrlLeiY1HcPk3cS0sxomM%3d&risl=&pid=ImgRaw&r=0">
+<style type="text/css">
+    li{
+        float: left;
+        display: block;
+        padding: 8px;
+        color: white;
+        font-size:larger
+    }
+    li a{
+        color:white;
+    }
+    div{
+        line-height: 500px;
+        height: 500px;
+    }
+    #box{
+    }
+    input{
+        width:400px
+        height: 40px;
+        margin:auto;
+    }
+    #search{
+        color: white;
+    }
+</style>
+<ul style="list-style-type:none;">
+<li><img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.Os6ZcVBWXodKLYF96U8hAwHaEc?pid=ImgDet&rs=1" alt="logo" width="70px" style="float: left;"> </li>
+<li><a href="https://cn.bing.com/images/trending?form=Z9LH">图片</a></li>
+<li><a href="https://cn.bing.com/videos/trending?form=Z9LH1">视频</a></li>
+<li><a href="https://cn.bing.com/maps?FORM=Z9LH2">地图</a></li>
+</ul>
+<div  id="box" >
+    <input type="search"name="search">
+    <button>搜索</button>
+</div>
+ </body>
+</html>
